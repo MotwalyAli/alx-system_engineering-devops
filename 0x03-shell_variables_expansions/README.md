@@ -1,3 +1,5 @@
                                      Variables and Expansions README.md File
 
-I will come back to you soon.
+set	-> this command will display the global and environmental variables and thier functions without any options or additoinals.
+
+
