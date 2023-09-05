@@ -1,0 +1,5 @@
+#!/bin/bash
+echo $((60-12*5))
+echo "calculate the avrg of 5,4,3,7,6"
+echo "avrg = (5+4+3+7+6)/5"
+echo "avrg = $(((5+4+3+7+6)/5))"
